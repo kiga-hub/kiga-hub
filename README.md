@@ -1,12 +1,17 @@
-## Hi there👋! I'm KIGA:
+<h1 align="center"><b>💥 KIGA 💥</b></h1>
 
-💻 BackEnd Engineer<br>
-🎓 Undergraduate from YUST<br>
-☕ Amateur Or Professional? Depends If You Are Open Or Close Minded..<br>
-📝 Blog: [KIGA's Blog](https://www.kiga.top/)<br>
-📫 Mail: 1020460168@qq.com<br>
 
-⭐️ From [KIGA](https://github.com/kiaoio4)<br>
+# <div align="center">✨ Tech Stack ✨</div>
+
+<div align="center">
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiaoio4)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 
 <img align='left' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiaoio4&theme=nord_dark">
@@ -17,18 +22,3 @@
 <img align='left' src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiaoio4&theme=nord_dark">
 <img align='left' src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kiaoio4&theme=nord_dark">
 
-
-<!--
-**kiaoio4/kiaoio4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
