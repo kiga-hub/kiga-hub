@@ -1,4 +1,4 @@
-<h1 align="left"><b>💥 KIGA 💥</b></h1>
+<h1 align="left"><b>💥 JINQUAN 💥</b></h1>
 
 
 # <div align="left">✨ Tech Stack ✨</div>
