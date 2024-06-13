@@ -8,12 +8,7 @@
 
 I primarily engage in back-end development work and am proficient in several programming languages, including `Golang`,`Rust`, `Python`, `Java`, and `C++`. I possess the ability to construct industrial Internet architecture. In my spare time, I enjoy perusing technical documentation to enhance my technical skills. Currently, I intend to write blog posts to document interesting experiences.
 
-Here is my GitHub URL: [< Github >](<https://github.com/kiga-hub>). Please feel free to reach out if you are interested in collaborating on engaging endeavors.
-
-<div align=center>
-<img src="https://kiga.top/avatar.jpg" width=400" height="400" />
-</div>
-
+Here is my GitHub URL: [< Github >](<https://github.com/kiga-hub>). 
 
 ## <div align="center">✨ Tech Stack ✨</div>
 
