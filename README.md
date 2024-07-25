@@ -3,7 +3,7 @@
 💻 BackEnd Engineer<br>
 🎓 Undergraduate from YUST<br>
 ☕ Amateur Or Professional? Depends If You Are Open Or Close Minded..<br>
-📝 Blog: [KIGA's Blog](https://kiga.top/) | [Kiga-hub](https://github.com/kiga-hub) <br>
+📝 Blog: [KIGA's Blog](https://kiga.top/) | [Kiga-hub](https://blog.kiga.top/) <br>
 📫 Mail: 1020460168@qq.com<br>
 
 I primarily engage in back-end development work and am proficient in several programming languages, including `Golang`,`Rust`, `Python`, `Java`, and `C++`. I possess the ability to construct industrial Internet architecture. In my spare time, I enjoy perusing technical documentation to enhance my technical skills. Currently, I intend to write blog posts to document interesting experiences.
