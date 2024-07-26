@@ -30,7 +30,7 @@ Here is my GitHub URL: [< Github >](<https://github.com/kiga-hub>).
 </tr></table>
 
 
-## Vacation Countdown
+## 이거 뭐죠?
 
 <img src="https://profile-counter.glitch.me/kiga-hub/count.svg" width="400"/>
 
