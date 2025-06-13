@@ -1,7 +1,6 @@
 ## Hi there! I'm KIGA
 
 💻 BackEnd Engineer<br>
-🎓 Undergraduate from YUST<br>
 ☕ Amateur Or Professional? Depends If You Are Open Or Close Minded..<br>
 📝 Blog: [KIGA's Blog](https://kiga.top/) | [Kiga-hub](https://blog.kiga.top/) <br>
 📫 Mail: 1020460168@qq.com<br>
